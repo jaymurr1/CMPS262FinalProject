@@ -1,4 +1,28 @@
-//TODO SOON
+//added basic gallery support
+$(document).ready(function(){
+    $('.ddr-gallery').slick({
+        dots: true,
+        infinite: true,
+        speed: 500,
+        slidesToShow: 1,
+        slidesToScroll: 1
+
+    });
+
+    $('.lifting-gallery').slick({
+        dots: true,
+        infinite: true,
+        speed: 500,
+        slidesToShow: 1,
+        slidesToScroll: 1
+
+    });
+
+
+    
+  });
+
+
 
 
 
