@@ -16,8 +16,8 @@ $(document).ready(function(){
 
     });
 
-    var API_KEY = "AIzaSyBbPm9y6qXb3-eWQYaMxkwd5DXitq7Sjn0"
-
+    //var API_KEY = ""
+    //keeping this blank while github is public, will fix later 
     var search = "Default"
 
     var video = ''
